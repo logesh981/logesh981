@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="githu header" width="100%" />
+<img src="githu header.png" alt="github_banner" width="100%" />
 
 # 💫 About Me:
 👋 Hi, I'm Logesh Venkat — a Full-Stack Developer & MLOps Engineer with a passion for building intelligent and scalable systems.<br><br>🚀 I specialize in:<br>- Machine Learning & MLOps (MLflow, Airflow, Terraform, AWS)<br>- Backend Development (Node.js, Python, FastAPI)<br>- Data Engineering & Cloud Deployments<br>- Real-time Systems (Kafka, Stream Processing)<br><br>🔍 I'm currently exploring projects that combine real-time data pipelines with ML deployment.
